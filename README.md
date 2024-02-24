@@ -13,6 +13,6 @@ https://ipinfo.io/161.185.160.93/geo
 
 ## Screen of solution
 
-![Screen1](README.assets/Screen1)
+![Screen1](README.assets/Screen1.PNG)
 
-![Screen2](README.assets/Screen2)
+![Screen2](README.assets/Screen2.PNG)
